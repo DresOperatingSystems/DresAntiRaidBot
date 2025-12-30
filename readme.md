@@ -42,7 +42,7 @@ Only group admins can use these commands.
 - Rate limits: The bot handles Telegram's FloodWaits automatically and resumes.
 - Runs as a bot with full access – use responsibly.
 - Use mutliple bots if you keep getting FloodWaits
-
+- tested and works on both termux and linux
 ## End
 Thank you to everyone for making these past 2 years of Dres awesome we love all of you and thought we would just release this quick little side project as a thanks so thanks from the entire Dres team. 
 
