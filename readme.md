@@ -1,5 +1,5 @@
 
-## it can:
+## It can:
 - **Remove users without profile pictures**: Often bots or alts used for leaking/spying. Command: `/kicknopfp`
 - **Remove recent joiners**: Kick anyone who joined in the last X hours (e.g., during a spam add raid). Command: `/kickjoined <hours>` (default 3 hours)
 
@@ -13,7 +13,7 @@ Kicks are temporary (users can rejoin), but you can edit the script for permanen
 2.**Install Dependencies**:
   - apt update && full-upgrade -y
   - apt install git
-  - git clone 
+  - git clone https:<i></i>//github.com/DresOperatingSystems/DresAntiRaidBot
   - cd DresAntiRaid
   - pip install -r requirements.txt
      
