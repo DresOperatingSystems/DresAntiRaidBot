@@ -14,7 +14,7 @@ Kicks are temporary (users can rejoin), but you can edit the script for permanen
   - apt update && full-upgrade -y
   - apt install git
   - git clone https:<i></i>//github.com/DresOperatingSystems/DresAntiRaidBot
-  - cd DresAntiRaid
+  - cd DresAntiRaidBot
   - pip install -r requirements.txt
      
 3. **Configure .env**:       
@@ -44,6 +44,6 @@ Only group admins can use these commands.
 - Use mutliple bots if you keep getting FloodWaits
 
 ## End
-    Thank you to everyone for making these past 2 years of Dres awesome we love all of you and thought we would just release this quick little side project as a thanks so thanks from the entire Dres team. 
+Thank you to everyone for making these past 2 years of Dres awesome we love all of you and thought we would just release this quick little side project as a thanks so thanks from the entire Dres team. 
 
 
