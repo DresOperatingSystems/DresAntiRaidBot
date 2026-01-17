@@ -11,17 +11,28 @@ Kicks are temporary (users can rejoin), but you can edit the script for permanen
    - Create a bot via @BotFather → Get `BOT_TOKEN`.
 
 2.**Install Dependencies**:
-  - apt update && full-upgrade -y
-  - apt install git
-  - git clone https:<i></i>//github.com/DresOperatingSystems/DresAntiRaidBot
-  - cd DresAntiRaidBot
-  - pip install -r requirements.txt
-     
+```bash
+apt update && full-upgrade -y
+```
+```bash
+apt install git
+```
+```bash
+git clone https://github.com/DresOperatingSystems/DresAntiRaidBot
+```
+```bash
+cd DresAntiRaidBot
+```
+``` bash
+pip install -r requirements.txt
+```  
 3. **Configure .env**:       
      Copy `.env.example` to `.env` and fill in your values.
 
 4. **Run the Bot**:       
-     python Dresanti.py
+``` bash
+python Dresanti.py
+```
 
 5. **Add to Group**:
 - Add the bot to your group/channel.
